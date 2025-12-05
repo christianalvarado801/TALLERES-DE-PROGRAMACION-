@@ -1,0 +1,9 @@
+public class Main {
+  static void camiloMetodo() {
+    System.out.println("Hello camilo, buen dia");
+  }
+
+  public static void main(String[] args) {
+    camiloMetodo();
+  }
+}
